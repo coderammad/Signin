@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211828440429",
+    "project_id": "fir-signup-d364e",
+    "storage_bucket": "fir-signup-d364e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211828440429:android:5cfcf1051e0bc8fb05ae64",
+        "android_client_info": {
+          "package_name": "com.example.signupandlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA371EDa2k9jxshAR9uGAl6JIH1Zopph-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
